@@ -4,6 +4,21 @@
     <category name="RootBox" >
 
         <wallpaper
+            author="Annex"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/RootBoxX.png" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/RootBoxX.png"/>
+
+        <wallpaper
+            author="Annex"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/XHDI-Metal.jpg" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/XHDI-Metal.jpg"/>
+
+        <wallpaper
+            author="Annex"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/Girls-RootboxXHDPI.png" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/Girls-RootboxXHDPI.png"/>
+
+        <wallpaper
             author="Dustin Wann"
             url="http://rootbox.ca/wp-content/uploads/2013/02/TextureDroidxhdpi.png" 
             thumbUrl="http://rootbox.ca/wp-content/uploads/2013/02/TextureDroidhdpi.png"/>
@@ -46,6 +61,11 @@
         <wallpaper
             author="Iain Rough"
             url="http://rootbox.ca/wp-content/uploads/2013/02/RootBox_Iain_Rough.jpg" />
+
+        <wallpaper
+            author="Niilo Nissinen"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/Rootbox-1440x1280.jpg" 
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/Rootbox-1440x1280.jpg"/>
 
         <wallpaper
             author="Ciribaski"
@@ -146,6 +166,35 @@
         <wallpaper
             author="RootBox"
             url="http://rootbox.ca/wp-content/uploads/2013/02/mobile_sensi_star.jpg" />
+    </category>
+
+    <category name="Classic Photos" >
+
+        <wallpaper
+            author="Ștefănescu Cristian"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/burnt_by_big_bum_XHDPI.jpg"
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/burnt_by_big_bum_XHDPI.jpg"/>
+
+        <wallpaper
+            author="Ștefănescu Cristian"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/Red_dot_by_big_bum_XHDPI.jpg"
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/Red_dot_by_big_bum_XHDPI.jpg"/>
+
+        <wallpaper
+            author="Ștefănescu Cristian"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/Shine_forever_by_big_bum_XHDPI.jpg"
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/Shine_forever_by_big_bum_XHDPI.jpg"/>
+
+        <wallpaper
+            author="Ștefănescu Cristian"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/sunset_by_big_bum_XHDPI.jpg"
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/sunset_by_big_bum_XHDPI.jpg"/>
+
+        <wallpaper
+            author="Ștefănescu Cristian"
+            url="http://rootbox.ca/wp-content/uploads/2013/03/Vulcano_by_big_bum_XHDPI.jpg"
+            thumbUrl="http://rootbox.ca/wp-content/uploads/2013/03/Vulcano_by_big_bum_XHDPI.jpg"/>
+
     </category>
 
 </wallpapers>
