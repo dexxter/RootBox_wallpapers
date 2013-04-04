@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">RB Duvar kağıtları</string>
+    <string name="title_activity_wallpaper">RB Duvar kağıdı</string>
+    <string name="back">Önceki</string>
+    <string name="next">Sonraki</string>
+    <string name="page">Sayfa: </string>
+    <string name="set_wallpaper">Duvar kağıdı olarak ayarla</string>
+    <string name="save_wallpaper">Hafızaya kaydet</string>
+    <string name="downloading">İndiriliyor…</string>
+    <string name="wait">Lütfen bekle</string>
+    <string name="set">Duvar kağıdı ayarlandı!</string>
+    <string name="saved">Duvar kağıdı kaydedildi</string>
+    <string name="jump">Sayfaya Git</string>
+    <string name="jump2">Sayfaya Git:</string>
+    <string name="about">Hakkında</string>
+    <string name="wars">Duvar Kağıdı Savaşları</string>
+    <string name="vote">Oyla!</string>
+    <string name="wallpaper">Duvar kağıdı</string>
+    <string name="setting_wallpaper">Duvar kağıdı ayarlanıyor…</string>
+    <string name="category_name">Kategori adı</string>
+    <string name="choose_category">Kategori seç</string>
+
+</resources>
